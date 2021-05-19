@@ -1,6 +1,6 @@
-The aim of this lab exercise is to implement Deep-Q Networks from scratch. For this, we will make use of the pre-defined FrozenLake-v0 environment by OpenAI Gym. Feel free to reuse any code from the previous exercise in this lab you deem fit.
+The aim of this lab exercise is to implement Double Deep-Q Networks from scratch. For this, we will make use of the pre-defined FrozenLake-v0 environment by OpenAI Gym. Feel free to reuse any code from the previous exercise in this lab you deem fit.
 
-![img](dqn_algo.png)
+![img](ddqn_algo.png)
 
 
 

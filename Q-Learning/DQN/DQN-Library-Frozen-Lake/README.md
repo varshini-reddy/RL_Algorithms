@@ -14,7 +14,7 @@ The aim of this exercise is to implement Deep Q Networks for a pre-defined reinf
 - Define the DQN and compile it with Adam optimizer.
 - Fit and test the DQN model.
 
-
+***Use enable *enable_double_dqn=True* to use DDQN, else DQN is got by default.**
 
 ## **Hints**
 
@@ -49,3 +49,4 @@ Initializes the DQN Agent
 SequentialMemory()
 
 Keras-RL provides a class called rl.memory.SequentialMemory that provides a fast and efficient data structure that we can store the agent’s experiences in.
+
